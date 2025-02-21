@@ -1,0 +1,25 @@
+{
+  "name": "feeld_swiper",
+  "version": "1.0.0",
+  "description": "an Appium automation that will scroll the potential matches page and alert when a potential match has been found",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdominko/feeld_swiper.git"
+  },
+  "author": "Tom Dominko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdominko/feeld_swiper/issues"
+  },
+  "homepage": "https://github.com/tomdominko/feeld_swiper#readme",
+  "devDependencies": {
+    "webdriverio": "^9.9.3"
+  }
+}
